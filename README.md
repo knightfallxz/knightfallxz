@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 
 
-- 🌱 I’m currently learning CYS
+- 🌱 I’m Knightfall
 - 📫 How to reach me: You can use my socials below .
 - 😄 Pronouns: He / Him
 - ⚡ Fun fact: I use Arch Btw 
