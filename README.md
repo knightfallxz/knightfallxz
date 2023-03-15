@@ -1,4 +1,6 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Knightfall;+Welcome+to+My+Profile!;FOSS+enthusiast+;)](https://git.io/typing-svg)
+
+<!-- ### Hi there 👋 -->
 
 <!--
 **Knightfall01/knightfall01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
