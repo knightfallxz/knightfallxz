@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%30a14e&center=true&vCenter=true&width=800&lines=Hi+there+👋,+I+am+Knightfall;+Welcome+to+My+Profile!;FOSS+Enthusiast+;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%30A14EFF&center=true&vCenter=true&width=800&lines=Hi+there+👋,+I+am+Knightfall;+Welcome+to+My+Profile!;FOSS+Enthusiast+;)](https://git.io/typing-svg)
 
 <!-- ### Hi there 👋 -->
 
