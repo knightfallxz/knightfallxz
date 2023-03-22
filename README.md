@@ -36,10 +36,10 @@ Here are some ideas to get you started:
 
 [<img align="left" width="420" alt="🦑" src="https://metrics.lecoq.io/Knightfall01?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&config.timezone=Asia%2FCalcutta">](#)
 
+[<img align="right" width="410" alt="🦑" src="/github-metrics.svg">](#)
 
 <!-- ![Metrics](https://metrics.lecoq.io/Knightfall01?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&config.timezone=Asia%2FCalcutta) -->
 
-[<img align="right" width="420" alt="🦑" src="/github-metrics.svg">](#)
 <!-- 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
