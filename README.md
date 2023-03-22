@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=30A14E&center=true&vCenter=true&width=800&lines=Hi+there+%F0%9F%91%8B%2C+I+am+Knightfall+;Welcome+to+My+Profile!%2C;Linux+Enthusiast+">
-
+</div>
 
 
 - 🌱 I’m Knightfall
