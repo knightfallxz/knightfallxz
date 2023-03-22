@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 ![Knightfall's's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=knightfall01&theme=github-compact)
 
-# 📊 GitHub Stats:
+## 📊 GitHub Streak:
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=knightfall01&theme=tokyonight&hide_border=false)<br/>
 
