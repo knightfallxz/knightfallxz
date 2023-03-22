@@ -35,7 +35,9 @@ Here are some ideas to get you started:
 
 # 📊 GitHub Streak:
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=knightfall01&theme=tokyonight&hide_border=false)<br/>
+<div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=knightfall01&theme=tokyonight&hide_border=false">
+</div>
 
 # 📊 Top Languages:
 
