@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 
 - 🌱 I’m Knightfall
 - 👨🏻‍💻 Free and Open Source Software Enthusiast 
-- 📫 How to reach me: You can use my socials below .
-- 😄 Pronouns: He / Him
 - ⚡ Fun fact: I use Arch Btw 
 
 <!-- 
