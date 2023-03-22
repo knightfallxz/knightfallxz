@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 ![Knightfall's's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=knightfall01&theme=github-compact)
 
 [<img align="" width="380" alt="🦑" src="/github-metrics.svg">](#)
-[<img align="right" width="480" alt="🦑" src="https://metrics.lecoq.io/Knightfall01?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&config.timezone=Asia%2FCalcutta">](#)
+[<img align="" width="380" alt="🦑" src="https://metrics.lecoq.io/Knightfall01?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&config.timezone=Asia%2FCalcutta">](#)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=knightfall01&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
