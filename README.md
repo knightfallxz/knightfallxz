@@ -1,5 +1,5 @@
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%30A14EFF&center=true&vCenter=true&width=800&lines=Hi+there+👋,+I+am+Knightfall;+Welcome+to+My+Profile!;FOSS+Enthusiast+;)](https://git.io/typing-svg) -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&color=30A14E&center=true&vCenter=true&width=800&lines=Hi+there+%F0%9F%91%8B%2C+I+am+Knightfall+;Welcome+to+My+Profile!%2C;Linux+Enthusiast+)](https://git.io/typing-svg)
+<!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Co<!-- de&color=30A14E&center=true&vCenter=true&width=800&lines=Hi+there+%F0%9F%91%8B%2C+I+am+Knightfall+;Welcome+to+My+Profile!%2C;Linux+Enthusiast+)](https://git.io/typing-svg) --> -->
 <!-- ### Hi there 👋 -->
 
 <!--
