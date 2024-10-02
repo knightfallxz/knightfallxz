@@ -13,7 +13,7 @@
 ![My Skills](https://skillicons.dev/icons?i=c,cpp,python,java,js,html,css,react,bash,typescript,go,rust,lua,markdown)
 
 ## 🐧 Linux:
-![Linux](https://skillicons.dev/icons?i=arch,debian.redhat,ubuntu,mint,fedora)
+![Linux](https://skillicons.dev/icons?i=arch,debian.redhat,ubuntu,mint)
 
 
 # 📈 GitHub Activity: 
