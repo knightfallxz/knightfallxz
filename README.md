@@ -3,7 +3,7 @@
 </div>
 
 
-- 🌱 I’m Knightfall
+- 🌱 I’m Suganth 
 - 👨🏻‍💻 Linux Enthusiast 
 - ⚡ Fun fact: I use Arch Btw 
 
